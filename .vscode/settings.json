@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\TroySpjute\\AppData\\Local\\Microsoft\\WindowsApps\\python3.7.exe"
+    "python.pythonPath": "C:\\Users\\TroySpjute\\AppData\\Local\\Microsoft\\WindowsApps\\python3.7.exe",
+    "ai.azureml.defaultWorkspaceId": "/subscriptions/473e7e3b-e0e5-4760-92a4-0b9e3c06f260/resourceGroups/MachineLearning/providers/Microsoft.MachineLearningServices/workspaces/MLTraining",
+    "jupyter.jupyterServerType": "local"
 }
